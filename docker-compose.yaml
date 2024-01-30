@@ -40,5 +40,14 @@ services:
     volumes:
       - dolibarr_html:/var/www/html
       - dolibarr_docs:/var/www/documents
+  adminer:
+    image: adminer:latest
+    container_name: adminer
+    restart: unless-stopped
+    depends_on:
+        - mariadb
+    ports:
+        - "8080:80"
+
 
      
