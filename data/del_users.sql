@@ -1,4 +1,4 @@
 USE dolibarr;
 
-TRUNCATE FROM `llx_user`
+DELETE FROM `llx_user`
 WHERE ((`lastname` != 'SuperAdmin'));
