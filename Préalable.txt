@@ -1,0 +1,6 @@
+Au préalable il faut :
+
+- Avoir docker et docker compose V2 d'installé
+- Avoir mysql-client d'installé
+- Lorsque que vous clonez le fichier depuis Github, il faut penser à renommer le dossier SAE51_2 (important)
+
