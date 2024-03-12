@@ -1,6 +1,6 @@
 #### Création des conteneurs  ####
 echo "Création de conteneurs MYSQL, Dolibarr et Adminer..."
-docker-compose up -d 
+docker compose up -d 
 
 ### Connexion à l'ERP ###
 
