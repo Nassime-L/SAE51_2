@@ -1,1 +1,1 @@
-25 14 * * * bash  ~/SAE51_2/script/save.sh
+00 22 * * sun bash  ~/SAE51_2/script/save.sh
