@@ -8,4 +8,4 @@ script/./add_users.sh
 
 ### Script de sauvegarde BDD ###
 
-script/./save.sh
+#script/./save.sh
